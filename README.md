@@ -1,2 +1,10 @@
-# payment-links-module
-Equiring payment links generation module for ModX Evolution 1.4.x
+**Название модуля**: Генератор ссылок на оплату
+**Описание**: <strong>0.1</strong> Модуль управления генератором ссылок на оплату
+**Код плагина**: connector.php
+**Значек**: fa fa-ruble-sign
+**Зависимости**: Sberbank Payment Links (plugin)
+
+### Инструкция
+1) Создать новый модуль
+2) Указать имя модуля и подключить код модуля
+3) Перед запуском кода, необходимо перейти в каталог модуля и сделать composer update
